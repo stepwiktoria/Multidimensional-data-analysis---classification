@@ -1,0 +1,57 @@
+Wielowymiarowa Analiza Danych – projekt drugi
+
+Jaki analizę należy wykonać?
+
+· Klasyfikacja
+
+Dane: własne dane, repozytoria Machine Learningu (np. UCI), dane z pakietów w R
+
+Wymagania zbioru: minimum 10 zmiennych, minimum 800 obserwacji
+
+Grupy maksymalnie 5 osobowe
+
+Co powinno znaleźć się w projekcie?
+
+· Tytuł pracy
+
+· Autorzy/Autor
+
+· Streszczenie (maksymalnie 150 słów)
+
+· Słowa kluczowe
+
+· Wprowadzenie
+
+· Przedmiot badania
+
+o Cel
+
+o Wstępna analiza danych
+
+§ Przedstawienie dostępnych zmiennych
+
+§ statystyki opisowe (przynajmniej: średnia, mediana, minimum, maksimum, odchylenie standardowe, skośność)
+
+§ podstawowa wizualizacja – np. boxplot, histogramy
+
+§ transformacje danych (skalowanie, logarytmowanie)
+
+§ braki danych – czy występują i jak je obsłużono
+
+§ obserwacje odstające i w jaki sposób je obsłużono
+
+· Opis metod
+
+o minimum trzy metody i stworzenie modelu hybrydowego (np. średnia ważona score’ów z metod), formalnie więc: minimum cztery mechanizmy decyzyjne
+
+o cytowanie pracy w której zaproponowano metodę (ewentualnie pracy, w której użyto metodę) i opis ogólny działania metody
+
+· Rezultaty
+
+o Mierniki (np. AUC, Accuracy, F Score) – minimum jeden
+
+o Sposób walidacji (np. krzyżowa, leave-one-out, wielokrotne próbkowanie) – minimum jeden sposób
+
+· Przykład użycia modeli na stworzonych sztucznie obserwacjach
+
+· Bibliografia
